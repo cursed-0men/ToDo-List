@@ -6,7 +6,7 @@ The Task Management System is a simple Python application designed to help users
 task_management.py: This is the main Python script containing the implementation of the Task Management System.
 tasks.json: This file is used to store tasks in JSON format.
 
-# Functionalities
+# 3. Functionalities
 1. Adding a Task
 Function: add_task(tasks)
 Description: Prompts the user to enter the name of a task and add it to the list of tasks with a default status of "Pending".
