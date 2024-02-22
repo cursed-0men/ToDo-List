@@ -37,6 +37,6 @@ Function: delete_task(tasks)
 Description: Allows the user to delete a task by entering its ID.
 Usage: Enter the ID of the task to delete it when prompted.
 
-# 4. NOTES
+# 4. Notes
 1. Task IDs are automatically assigned based on the order in which tasks are added.
 2. Tasks are saved in JSON format for easy persistence.
